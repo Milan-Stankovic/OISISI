@@ -1,0 +1,14 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<Title>Instaler</Title>
+</HEAD>
+<BODY>
+<p>It is possible to create one or more installers by clicking the "<B>Add version</B>" button.<br>
+Changing the name of an installer or it's parameters is possible by clicking the "<B>Edit</B>" button in the Menu, followed by clicking on  "<B>Edit Node</B>".<br>
+Removing selected installer is done by clicking the  "<B>Remove</B>" button.<br>
+Saving selected installer is done by clicking the "<B>Save</B>" button.</p>
+
+</BODY>
+</HTML>

@@ -1,0 +1,44 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<Title>Mnem</Title>
+</HEAD>
+<BODY>
+<p>
+<B>Mnemonici</B> cine UIGUI laksim za upotrebu. Kako funkcionisu?<br>
+Primer:<br>
+Pritiskanje <B>ALT</B>+<B>F</B> na tastaruri ce otvoriti Fajl meni u meniju. <br>
+Pritiskanje <B>ALT</B>+<B>F</B>+<B>N</B> na tastaturi ce prvo otvoriti Fajl meni a zatim i dijalog za novi fajl.<br>
+Lista svih mnemonika:
+<ul>
+<li><B>F</B> - otvara Fajl meni</li>
+<li><B>F</B>+<B>N</B> - Novi instaler </li>
+<li><B>F</B>+<B>O</B> - Otvori postojeci instaler</li>  
+<li><B>F</B>+<B>S</B> - Sacuvaj instaler </li>
+<li><B>F</B>+<B>I</B> - Uvezi vise postojecih instalera </li>
+<br>
+ <li><B>E</B> - otvara Izmeni meni</li>
+<li><B>E</B>+<B>T</B> - Menjaj </li>
+<li><B>E</B>+<B>X</B> - Iseci </li>
+<li><B>E</B>+<B>C</B> - Kopiraj </li>
+<li><B>E</B>+<B>V</B> - Nalepi </li>
+<li><B>E</B>+<B>M</B> - Pomeri </li>
+<li><B>E</B>+<B>M</B> +<B>U</B> - Pomeri navise </li>
+<li><B>E</B>+<B>M</B> +<B>D</B> - Pomeri nanize </li>
+<br>
+<li><B>W</B> - otvara Pregled meni </li>
+<li><B>W</B>+<B>P</B> Pregled osobina </li>
+<br>
+<li><B>H</B> - otvara Pomoc meni </li>
+<li><B>H</B>+<B>L</B> - pomoc </li>
+
+
+</ul> 
+
+
+</p>
+
+
+</BODY>
+</HTML>

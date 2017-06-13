@@ -1,0 +1,29 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<Title>TipPar</Title>
+</HEAD>
+<BODY>
+<p>
+Following types of parameters can be added: <br>
+<ol>
+<li><B>Text </B> - sentence or a text</li>
+<li> <B>Text Line </B></li>
+<li> <B>Picture</B></li>
+<li> <B>Software location</B> - location of the product to be installed</li>
+<li> <B>Text File </B></li>
+<li> <B>Company logo </B></li>
+<li><B> Default install location</B> - predefined location where the product will be installed, changing it's value can be disabled</li>
+<li> <B>Exe</B> - executable command</li>
+<li> <B>Install </B> - adds Install button to the selected panel</li>
+<li> <B>Checkbox </B> - requires user's validation to proceed with installation</li>
+<li> <B>Localization </B> - adds the possibility of translating installer to another language. 
+Only parameters added before localization will be translated. Symbol "=" is forbidden.
+ </li>
+<li><B> List</B></li>
+</ol>
+</p>
+
+</BODY>
+</HTML>

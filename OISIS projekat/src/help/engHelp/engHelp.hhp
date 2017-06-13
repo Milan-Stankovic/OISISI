@@ -1,0 +1,23 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=engHelp.chm
+Contents file=Table of Contents.hhc
+Default topic=EngPocetak.htm
+Display compile progress=No
+Language=0x409 English (United States)
+
+
+[FILES]
+EngGlobalni.htm
+EngInstal.htm
+EngInstaler.htm
+EngMeni.htm
+EngPanel.htm
+EngParametar.htm
+EngPocetak.htm
+EngPregled.htm
+EngTipPar.htm
+EngMnem.htm
+
+[INFOTYPES]
+

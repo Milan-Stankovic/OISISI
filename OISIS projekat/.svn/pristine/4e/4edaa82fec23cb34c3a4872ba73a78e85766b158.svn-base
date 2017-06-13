@@ -1,0 +1,20 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<Title>Pocetak</Title>
+</HEAD>
+<BODY>
+<p>Welcome.<br><br>
+UIGUI can work with more than one installers. Every installer contains pages (panels), where every page can have one or more parameters.
+<br>
+• <a href="EngInstaler.htm"><U>Creating an installer</U> </a> is possible by adding it's name and then clicking the "<B>Add version</B>" button.<br>
+• <a href="EngPanel.htm"><U> Creating a page(panel) </U></a> is possible by selecting your installer, followed by giving your panel a name and clicking the "<B>Add panel</B>" button.<br>
+•<a href="EngParametar.htm"><U>Filling the page(panel)</U> </a> of an installer is possible by choosing one parameter from drop down list of parameters, followed by giving it's name, value and clicking the "<B>Add parameter</B>." button.<br>
+• <U>Removing selected parameter</U> is possible by selecting it in a list of parameters of your installer and then clicking the "<B>Remove</B>" button.<br>
+• <a href="EngPregled.htm"><U>Preview</U> </a> of an istaller is done by clicking the "<B>Preview</B>" button.<br>
+• <a href="EngInstal.htm"><U>Installation of the product </U> </a> is done by clicking the "<B>Install</B>" button.<br> 
+• <U>Saving the current installer</U>is done by clicking the "<B>Save</B>" button.</p>
+
+</BODY>
+</HTML>
